@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Museo;
+    src: url(./Museo\ Sans\ Cyrl/Museo);
+    font-weight: 400;
+}
+
+body{
+    font-family: Museo;
+}
+
